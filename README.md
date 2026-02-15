@@ -1,5 +1,5 @@
 # Text Document Classifier
-This presents the design and analysis of a binary text document classification system that classifies news articles into Sport or Politics categories. I have used the
+This assignment presents the design and analysis of a binary text document classification system that classifies news articles into Sport or Politics categories. I have used the
 BBC News dataset and compared three classical machine learning techniques: Naive Bayes, Logistic Regression, and Support Vector Machines (SVM). Multiple feature
 representations including Bag of Words, TF-IDF, and N-grams were used. Quantitative results show all three ways of feature representations with Naive Bayes and TF-IDF
 with bigrams combined with SVM achieves near-perfect accuracy.
